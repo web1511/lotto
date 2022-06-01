@@ -1,0 +1,20 @@
+.wrapper-progress{
+    width: 260px;
+    height: 6px;
+    background: #090909;
+    opacity: 1;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 32px;
+    position: relative;
+}
+.wrapper-progress-text{
+    width: 0;
+    height: 100%;
+    background: #FEEB96;
+    opacity: 1;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
